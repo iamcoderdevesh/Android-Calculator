@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string-array name="theme_array">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+</resources>
